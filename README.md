@@ -8,7 +8,7 @@
 <img src="https://cdn.dribbble.com/users/1362913/screenshots/4641855/media/cc6a849bb3e3fbab1cd7d04b18dbe503.png" alt="Coding" align="right" width="400" >
 - 🌱 I’m currently learning **Jsx Language**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rajas-star](https://github.com/Rajas-star)
+- 👨‍💻 All of my projects are available at [https://github.com/Rajas-star?tab=repositories](https://github.com/Rajas-star)
 
 - 💬 Ask me about **Anything that I can answear**
 
