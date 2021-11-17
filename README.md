@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajas-star" alt="rajas-star" /></a> </p>
 
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1362913/screenshots/4641855/media/cc6a849bb3e3fbab1cd7d04b18dbe503.png"
+<img src="https://cdn.dribbble.com/users/1362913/screenshots/4641855/media/cc6a849bb3e3fbab1cd7d04b18dbe503.png" alt="Coding" align="right" width="400" >
 - 🌱 I’m currently learning **Jsx Language**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rajas-star](https://github.com/Rajas-star)
